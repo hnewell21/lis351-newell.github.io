@@ -1,0 +1,38 @@
+*{
+	font-family: sans-serif;
+	color: #042A2B;
+	text-align: center;
+}
+
+body{
+	width: 960px;
+	margin: 0;
+	border:groove;
+	background-color: #404E4D;
+}
+nav {
+background-color: #A49E8D;
+padding: 15px;
+margin: 15px;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: #A49E8D;
+	padding: 15px;
+	margin: 15px;
+}
+article{
+	background-color: #A49E8D;
+	padding: 15px;
+	margin: 15px;
+}
